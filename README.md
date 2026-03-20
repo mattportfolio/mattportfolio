@@ -1,7 +1,6 @@
 ## Hi there, I'm Mateusz Dróżdż (Matthew Drozdz)👋
 
 <!--
-**mattportfolio/mattportfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently: **Working on learning the basics of phyton.**
 - 🌱 I’m currently learning: **How to use github & improve my English (English is not my native language)**
